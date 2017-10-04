@@ -17,7 +17,7 @@ public class DbConnector {
         // ?autoReconnect=true&useSSL=false is required to supress complaints
         String database = "ufly?useSSL=false";
         String userName = "root";
-        String password = "Delancie";
+        String password = "password";
         return DriverManager.getConnection(url + database, userName, password);
     }
 }
