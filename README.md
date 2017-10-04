@@ -1,6 +1,8 @@
 # Airline-Booking-System
 Booking system for airline (Java).
 
+See Airline-Booking-System/src for source files.
+
 Program packaged in Airline-Booking-System/Airline_Booking_System.jar
 
 SQL dump for MySQL DB: Airline-Booking-System/Dump20160824.sql login: root/password
