@@ -1,2 +1,6 @@
 # Airline-Booking-System
-booking system for airline (Java)
+Booking system for airline (Java).
+
+Program packaged in Airline-Booking-System/Airline_Booking_System.jar
+
+
